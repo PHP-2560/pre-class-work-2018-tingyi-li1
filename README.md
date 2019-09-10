@@ -6,6 +6,6 @@ This folder will be where you complete your pre-class each week. The first time 
 Before you continue, Edit this document with:
 
 
-- Preferred Name: _________________________________
-- Brown Name: ___________________________
-- Brown E-mail: ______________________
+- Preferred Name: _______Tingyi__________________________
+- Brown Name: _______________________Tingyi Li____
+- Brown E-mail: _________Tingyi_li@brown.edu_____________
